@@ -1,0 +1,17 @@
+
+{
+  "name": "jquery-week-calendar",
+  "version": "2.0",
+  "description": "JQuery Week Calendar using the JQuery UI library",
+  "main": "jquery.weekcalendar.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanJuV/jquery-week-calendar.git"
+  },
+  "author": "Rob Monie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/themouette/jquery-week-calendar/issues"
+  },
+  "homepage": "https://github.com/themouette/jquery-week-calendar#readme"
+}
